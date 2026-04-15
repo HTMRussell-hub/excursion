@@ -1,5 +1,6 @@
 html {
     background-color: black;
+    text-align: center;
 }
 
 
@@ -15,6 +16,30 @@ header {
 }
 
 header p a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.features h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.features p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+footer .copyright {
+    text-align: right;
+    color: gray;
+
+}
+
+footer .cta-link  {
     color: aquamarine;
     font-size: 16px;
 }
